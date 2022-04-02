@@ -1,5 +1,9 @@
-Requirements
-1.Software Requirements:
+Mini Project
+c programming
+to aplly the learning
+
+
+Software Requirements:
        •	Dev-C++
        •	Windows Operating System.
 2.Data Requirements:
